@@ -162,7 +162,7 @@ body a.pure-button-primary,
 .channel-owner:hover,
 .channel-owner:focus {
   background-color: #a0a0a0;
-  color: rgba(35, 35, 35, 1);
+  color: rgba(0, 0, 0, 1);
 }
 
 .pure-button-primary,
@@ -629,7 +629,7 @@ body.dark-theme {
 .dark-theme input,
 .dark-theme select,
 .dark-theme textarea {
-  color: rgba(35, 35, 35, 1);
+  color: rgba(0, 0, 0, 1);
 }
 
 .dark-theme .pure-form input[type="file"] {
@@ -668,7 +668,7 @@ body.dark-theme {
   }
 
   body.no-theme {
-    background-color: rgba(35, 35, 35, 1);
+    background-color: rgba(0, 0, 0, 1);
     color: #f0f0f0;
   }
 
@@ -683,7 +683,7 @@ body.dark-theme {
   .no-theme input,
   .no-theme select,
   .no-theme textarea {
-    color: rgba(35, 35, 35, 1);
+    color: rgba(0, 0, 0, 1);
   }
 
   .no-theme .pure-form input[type="file"] {
