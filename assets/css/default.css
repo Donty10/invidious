@@ -614,7 +614,7 @@ span > select {
 }
 
 body.dark-theme {
-  background-color: rgba(35, 35, 35, 1);
+  background-color: rgba(0, 0, 0, 1);
   color: #f0f0f0;
 }
 
